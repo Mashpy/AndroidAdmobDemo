@@ -4,5 +4,22 @@
     <string name="app_name">Test</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="id_ads">Your Ad Unit</string>
+    <string name="textstring">How to use admob in android webview? - Stack Overflow
+stackoverflow.com/questions/.../how-to-use-admob-in-android-webview
+Aug 10, 2014 - Hi all I am using admob in android webview. ..... Migration of the Admob SDK to the Google Play Services on the official developer site (click).
+Admob + Android WebView issues - Stack Overflow
+stackoverflow.com/questions/25579953/admob-android-webview-issues
+Aug 30, 2014 - Admob + Android WeAndroid Solution Of AdMob Not Showing In WebView ...
+www.softwarevol.com/.../Android-Solution-Of-AdMob-Not-Showing-In...
+Apr 9, 2014 - While developing android application with AdMob and WebView you can face with a big problem. ... If you are not registered yet, please click.
+Mobile - WebView Android Template App | CodeCanyon
+codecanyon.net/item/webview-android-template-app/8987486
+$17.00bView issues ... WebSettings; import android.webkit. ... The action bar will // automatically handle clicks on the Home/Up ...
+Final Solution to integrating AdMob into Android - Developers
+developer.appcelerator.com/.../final-solution-to-integrating-admob-into-...
+Many others have struggled with integrating AdMob into your Android apps and I did as well. ... web view ad html would contain links when in reality the production admob ads ... Once to load the ad, then a second time when you click the ad.
+AdMob Integration For Android Need Help! - Buzztouch
+www.buzztouch.com › ... › Plugins, Customizing, Source Code</string>
 
 </resources>
